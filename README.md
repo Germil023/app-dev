@@ -1,5 +1,5 @@
-# app-dev
-## My Favorite Anime Series
+
+# My Favorite Anime Series
 
 My first repository
 

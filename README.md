@@ -5,6 +5,7 @@ My first repository
 
 
 1. **One Piece** 
+	![alt text](![image](https://github.com/Germil023/app-dev/assets/133613785/8516b70f-3d7d-4641-944b-993759ae07f7))
 - Best Anime of all time
 - Monkey D. Luffy sails with his crew of Straw Hat Pirates through the Grand Line to find the treasure One Piece and become the new king of the pirates.
 - One Piece earned its popularity through its detailed storyline, exciting characters, and creative settings.
